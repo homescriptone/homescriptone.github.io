@@ -1628,3 +1628,10 @@ footer p a:hover {
   display: inline-block;
   outline: none;
 }
+
+.main-banner {
+  position: unset !important;
+  max-height: 100%;
+  overflow: hidden;
+  margin-bottom: -7px;
+}
